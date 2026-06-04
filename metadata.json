@@ -1,0 +1,10 @@
+{
+  "name": "FootScan Pro",
+  "description": "FootScan Pro uses computer vision to analyze foot aesthetics and health, generating an actionable FootScore and leaderboard ranking.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
